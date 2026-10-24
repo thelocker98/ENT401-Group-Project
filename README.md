@@ -1,4 +1,4 @@
-# ENT401 Group Project - Smart Alarm System
+# ENT401 Group Project - Smart Alarm Clock
 
 This project is an ESP32-based smart alarm system with a web interface. It uses a BMX160 9-axis motion sensor and a buzzer for alerts.
 
