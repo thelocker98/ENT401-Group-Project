@@ -6,11 +6,11 @@ This project is an ESP32-based smart alarm system with a web interface. It uses 
 
 ### Live Demo
 
-<video src="media/live.mp4" controls muted playsinline width="600"></video>
+https://github.com/user-attachments/assets/9c5c4756-6135-47e3-aa7f-98d63e77e5f7
 
 ### Web Interface Demo
 
-<video src="media/web_interface.mp4" controls muted playsinline width="600"></video>
+https://github.com/user-attachments/assets/dd90cc17-dacf-4480-a380-2a6b942102c9
 
 ## Features
 
