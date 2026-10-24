@@ -2,6 +2,16 @@
 
 This project is an ESP32-based smart alarm system with a web interface. It uses a BMX160 9-axis motion sensor and a buzzer for alerts.
 
+## Demo
+
+### Live Demo
+
+<video src="media/live.mp4" controls muted playsinline width="600"></video>
+
+### Web Interface Demo
+
+<video src="media/web_interface.mp4" controls muted playsinline width="600"></video>
+
 ## Features
 
 - **Wi-Fi Connectivity**: Connects to "hotspot1" network
